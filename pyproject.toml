@@ -1,0 +1,10 @@
+[project]
+name = "robot_delivery_system"
+version = "0.1.0"
+description = "Создать программу для управлением роботом, локализация Slam, Computer vision, чтобы я смог сделать мобильного робота доставщика: HTTP-сервис с нуля"
+requires-python = ">=3.10"
+dependencies = []
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
